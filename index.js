@@ -1,3 +1,4 @@
 // write your code below!
-happyHolidays()
+happyHolidays(){
 return "Happy holidays!";
+}
